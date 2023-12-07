@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:onspace/app/app.dart';
-import 'package:onspace/counter/counter.dart';
+import 'package:onspace/location/counter.dart';
 
 void main() {
   group('App', () {
